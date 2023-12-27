@@ -1,0 +1,19 @@
+.modal_wrapper {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  background-color: #f6faff;
+  border-radius: 10px;
+  width: 90%;
+}
+.overlay_styles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(144, 138, 138, 0.5);
+  z-index: 1000;
+}

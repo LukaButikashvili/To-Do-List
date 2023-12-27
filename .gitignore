@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/*
+jspm_packages/
+
+# Next.js build output
+.next
+out
+
+### react ###
+
+node_modules
+
